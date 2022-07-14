@@ -1,3 +1,3 @@
 # ReadMe
 
-This contains the powerpoint presentation for the IJCAI & ICLP conferences
+This contains the powerpoint presentations for the IJCAI & ICLP conferences
